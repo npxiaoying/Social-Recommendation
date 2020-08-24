@@ -4,6 +4,7 @@ This repository summarizes some existing social recommendation papers and open s
 * Graph Neural Networks for Social Recommendation  [ WWW, 2019]
 
   Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
+  
   Another version: https://github.com/Wang-Shuo/GraphRec_PyTorch
   
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
