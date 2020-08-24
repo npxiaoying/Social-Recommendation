@@ -1,6 +1,9 @@
 # Summary of social recommendation
 This repository summarizes some existing social recommendation papers and open source codes, provides downloads of the papers and attaches the corresponding code addresses.
 
+中文版：
+社会化推荐总结
+这个仓库总结了一些现有的社会化推荐论文和开源代码，提供了论文的下载并且附上了对应的开源代码地址。
 * Graph Neural Networks for Social Recommendation  [ WWW, 2019]
 
   Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
