@@ -53,7 +53,7 @@ This repository summarizes some existing social recommendation papers and open s
 
   Author's code: https://github.com/guoguibing/librec/
   
-  Another version:: https://github.com/hongleizhang/RSAlgorithms
+  Another version: https://github.com/hongleizhang/RSAlgorithms
   
 * Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
 
