@@ -13,7 +13,7 @@ This repository summarizes some existing social recommendation papers and open s
 
 *  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
 
-  Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec 
+   Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec 
 
 * An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [SIGIR 2019] 
 
