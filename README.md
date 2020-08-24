@@ -6,7 +6,8 @@ This repository summarizes some existing social recommendation papers and open s
   Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
   Another version: https://github.com/Wang-Shuo/GraphRec_PyTorch
   
-* Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in      Recommendation [WSDM,2019]
+* Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
+
   Author's code: https://github.com/chenchongthu/SAMN
 
 *  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
@@ -42,7 +43,9 @@ This repository summarizes some existing social recommendation papers and open s
   code: https://github.com/hongleizhang/RSAlgorithms
   
 * TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings [AAAI 2015]
+
   Author's code: https://github.com/guoguibing/librec/
+  
   Another version:: https://github.com/hongleizhang/RSAlgorithms
   
 * Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
