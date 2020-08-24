@@ -1,4 +1,4 @@
-# Summary of social recommendation repositories
+# Summary of social recommendation
 This repository summarizes some existing social recommendation papers and open source codes, provides downloads of the papers and attaches the corresponding code addresses.
 
 * Graph Neural Networks for Social Recommendation  [ WWW, 2019]
