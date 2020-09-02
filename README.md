@@ -59,5 +59,7 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
+* Social Recommendation with an Essential Preference Space [AAAI 2018]
 
+  code:https://github.com/WSPTTH/SREPS
 
