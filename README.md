@@ -36,9 +36,13 @@ This repository summarizes some existing social recommendation papers and open s
   
   code: https://github.com/hongleizhang/RSAlgorithms
   
+  code: https://github.com/Coder-Yu/RecQ
+  
 * Learning to recommend with social trust ensemble [SIGIR 2009]
 
   code: https://github.com/hongleizhang/RSAlgorithms
+  
+  code: https://github.com/Coder-Yu/RecQ
   
 * Trustwalker: a random walk model for combining trust-based and item-based recommendation [SIGKDD 2009]
 
@@ -48,9 +52,13 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
+  code: https://github.com/Coder-Yu/RecQ
+  
 * Recommender systems with social regularization [WSDM 2011]
 
   code: https://github.com/hongleizhang/RSAlgorithms
+  
+  code: https://github.com/Coder-Yu/RecQ
   
 * TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings [AAAI 2015]
 
@@ -64,5 +72,28 @@ This repository summarizes some existing social recommendation papers and open s
   
 * Social Recommendation with an Essential Preference Space [AAAI 2018]
 
-  code:https://github.com/WSPTTH/SREPS
+  code: https://github.com/WSPTTH/SREPS
 
+* Leveraing Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
+
+  code: https://github.com/Coder-Yu/RecQ
+  
+* Social Recommendation Using Euclidean embedding [IJCNN 2017]
+
+  code: https://github.com/Coder-Yu/RecQ
+
+* Exploiting local and global social context for recommendation [AAAI 2013]
+
+  code: https://github.com/Coder-Yu/RecQ
+  
+* A Social Recommender Based on Factorization and Distance Metric Learning [IEEE Access 2017]
+
+  code: https://github.com/Coder-Yu/RecQ
+  
+* Social Recommendation with Strong and Weak Ties [CIKM 2016]
+
+  code: https://github.com/Coder-Yu/RecQ
+
+* Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
+
+  code: https://github.com/Coder-Yu/RecQ
