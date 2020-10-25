@@ -10,6 +10,19 @@ This repository summarizes some existing social recommendation papers and open s
 另外我有在知乎写一篇关于社会化推荐的文章，欢迎点赞：https://zhuanlan.zhihu.com/p/190944012
 
 
+Common dataset:
+1.FilmTrust: https://guoguibing.github.io/librec/datasets.html
+
+2.Epinions:http://www.trustlet.org/epinions.html
+
+3. CiaoDVD:https://guoguibing.github.io/librec/datasets.html
+
+4.Delicious:https://grouplens.org/datasets/hetrec-2011/
+
+5.Yelp: https://www.yelp.com/dataset
+
+
+
 * Graph Neural Networks for Social Recommendation  [ WWW, 2019]
 
   Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
