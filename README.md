@@ -111,3 +111,7 @@ This repository summarizes some existing social recommendation papers and open s
 * Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
 
   code: https://github.com/Coder-Yu/RecQ
+ 
+* Social Influence Attentive Neural Network for Friend-Enhanced Recommendation [ECML-PKDD 2020]
+
+  code: https://github.com/rootlu/SIAN
