@@ -10,17 +10,17 @@ This repository summarizes some existing social recommendation papers and open s
 另外我有在知乎写一篇关于社会化推荐的文章，欢迎点赞：https://zhuanlan.zhihu.com/p/190944012
 
 
-Common dataset:
+* Common dataset:
 
-1.FilmTrust: https://guoguibing.github.io/librec/datasets.html
+  1. FilmTrust: https://guoguibing.github.io/librec/datasets.html
 
-2.Epinions:http://www.trustlet.org/epinions.html
+  2. Epinions:http://www.trustlet.org/epinions.html
 
-3.CiaoDVD:https://guoguibing.github.io/librec/datasets.html
+  3. CiaoDVD:https://guoguibing.github.io/librec/datasets.html
 
-4.Delicious:https://grouplens.org/datasets/hetrec-2011/
+  4. Delicious:https://grouplens.org/datasets/hetrec-2011/
 
-5.Yelp: https://www.yelp.com/dataset
+  5. Yelp: https://www.yelp.com/dataset
 
 
 
