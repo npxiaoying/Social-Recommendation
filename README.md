@@ -11,11 +11,12 @@ This repository summarizes some existing social recommendation papers and open s
 
 
 Common dataset:
+
 1.FilmTrust: https://guoguibing.github.io/librec/datasets.html
 
 2.Epinions:http://www.trustlet.org/epinions.html
 
-3. CiaoDVD:https://guoguibing.github.io/librec/datasets.html
+3.CiaoDVD:https://guoguibing.github.io/librec/datasets.html
 
 4.Delicious:https://grouplens.org/datasets/hetrec-2011/
 
