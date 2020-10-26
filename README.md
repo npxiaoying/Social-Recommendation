@@ -30,6 +30,8 @@ This repository summarizes some existing social recommendation papers and open s
   
   Another version: https://github.com/Wang-Shuo/GraphRec_PyTorch
   
+  Another version(improvement): https://github.com/lcwy220/Social-Recommendation
+  
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
 
   Author's code: https://github.com/chenchongthu/SAMN
