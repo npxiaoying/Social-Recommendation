@@ -24,6 +24,14 @@ This repository summarizes some existing social recommendation papers and open s
   
 
 * SoRec Social Recommendation using Probabilistic Matrix Factorization [CIKM 2008]
+
+  Code1 details:
+  
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
+  
+  Code2 details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
   
   code: https://github.com/hongleizhang/RSAlgorithms
   
@@ -31,15 +39,35 @@ This repository summarizes some existing social recommendation papers and open s
   
 * Learning to recommend with social trust ensemble [SIGIR 2009]
 
-  code: https://github.com/hongleizhang/RSAlgorithms
+  Code1 details:
   
-  code: https://github.com/Coder-Yu/RecQ
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
+  
+  Code2 details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  code1: https://github.com/hongleizhang/RSAlgorithms
+  
+  code2: https://github.com/Coder-Yu/RecQ
   
 * Trustwalker: a random walk model for combining trust-based and item-based recommendation [SIGKDD 2009]
+
+  Code details:
+  
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
 * A matrix factorization technique with trust propagation for recommendation in social networks [RecSys 2010]
+
+  Code1 details:
+  
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
+  
+  Code2 details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
@@ -47,19 +75,43 @@ This repository summarizes some existing social recommendation papers and open s
   
 * Recommender systems with social regularization [WSDM 2011]
 
-  code: https://github.com/hongleizhang/RSAlgorithms
+  Code1 details:
   
-  code: https://github.com/Coder-Yu/RecQ  
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
+  
+  Code2 details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  code1: https://github.com/hongleizhang/RSAlgorithms
+  
+  code2: https://github.com/Coder-Yu/RecQ  
  
 * Exploiting local and global social context for recommendation [AAAI 2013]
+
+  Code details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
   code: https://github.com/Coder-Yu/RecQ 
   
 * Leveraing Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
 
+  Code details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
   code: https://github.com/Coder-Yu/RecQ
   
 * TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings [AAAI 2015]
+
+  Code1 details:
+  
+  Dataset:Epinions,FilmTrust,Ciao,Flixster  Environments:Java 1.7
+
+  Code2 details:
+  
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
 
   Author's code: https://github.com/guoguibing/librec/
   
@@ -67,37 +119,79 @@ This repository summarizes some existing social recommendation papers and open s
   
 * Social Recommendation with Strong and Weak Ties [CIKM 2016]
 
+  Code details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
   code: https://github.com/Coder-Yu/RecQ
   
 * A Social Recommender Based on Factorization and Distance Metric Learning [IEEE Access 2017]
+
+  Code details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
   code: https://github.com/Coder-Yu/RecQ
   
 * Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
 
-  code: https://github.com/hongleizhang/RSAlgorithms
+  Code1 details:
+  
+  Dataset:Epinions,FilmTrust  Environments:Python 3 
+  
+  Code2 details:
+  
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+  
+  code1: https://github.com/hongleizhang/RSAlgorithms
+  
+  code2: https://github.com/Coder-Yu/RecQ  
   
 * Social Recommendation Using Euclidean embedding [IJCNN 2017]
+
+  Code details:
+   
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
   code: https://github.com/Coder-Yu/RecQ  
   
 * Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
 
+  Code details:
+   
+  Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
   code: https://github.com/Coder-Yu/RecQ  
   
 * Social Recommendation with an Essential Preference Space [AAAI 2018]
+
+  Code details:
+   
+  Dataset:Ciao,Epinions,Flixster,FilmTrust  Environments:python >= 3.4
 
   code: https://github.com/WSPTTH/SREPS  
   
 * A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
 
+  Code details:
+   
+  Dataset:yelp  Environments:python 2.7 tensorflow-gpu-1.12.0
+
   Author's code: https://github.com/PeiJieSun/diffnet  
   
 * An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [SIGIR 2019] 
 
+  Code details:
+   
+  Dataset:Ciao,Epinions,Flixster  Environments:python 2.7 Tensorflow
+
   Author's code: https://github.com/chenchongthu/EATNN  
 
 * Graph Neural Networks for Social Recommendation  [ WWW, 2019]
+
+  Code details:
+   
+  Dataset:Ciao,Epinions  Environments:python 3.6 pytorch: 0.2+
 
   Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
   
@@ -107,12 +201,26 @@ This repository summarizes some existing social recommendation papers and open s
   
 *  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
 
+   code details:
+   
+   Dataset:Douban  Environments:python 2.7 Tensorflow 1.4.1
+
    Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec   
   
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
 
+  code details:
+  
+  Dataset:delicious  Environments:python 2.7 Tensorflow 1.7.0
+
   Author's code: https://github.com/chenchongthu/SAMN
  
 * Social Influence Attentive Neural Network for Friend-Enhanced Recommendation [ECML-PKDD 2020]
-
+  
+  code details:
+  
+  Dataset:FWD,yelp  Environments:python 2.7 Pytorch 0.4.1
+  
   code: https://github.com/rootlu/SIAN
+  
+  
