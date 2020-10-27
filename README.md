@@ -12,15 +12,15 @@ This repository summarizes some existing social recommendation papers and open s
 
 * Common dataset:
 
-  1. FilmTrust: https://guoguibing.github.io/librec/datasets.html
+   FilmTrust: https://guoguibing.github.io/librec/datasets.html
 
-  2. Epinions:http://www.trustlet.org/epinions.html
+   Epinions:http://www.trustlet.org/epinions.html
 
-  3. CiaoDVD:https://guoguibing.github.io/librec/datasets.html
+   CiaoDVD:https://guoguibing.github.io/librec/datasets.html
 
-  4. Delicious:https://grouplens.org/datasets/hetrec-2011/
+   Delicious:https://grouplens.org/datasets/hetrec-2011/
 
-  5. Yelp: https://www.yelp.com/dataset
+   Yelp: https://www.yelp.com/dataset
   
 
 * SoRec Social Recommendation using Probabilistic Matrix Factorization [CIKM 2008]
@@ -32,6 +32,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code2 details:
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  Metrics: MAE
   
   code: https://github.com/hongleizhang/RSAlgorithms
   
@@ -47,6 +49,8 @@ This repository summarizes some existing social recommendation papers and open s
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
+  Metrics: RMSE,MAE
+
   code1: https://github.com/hongleizhang/RSAlgorithms
   
   code2: https://github.com/Coder-Yu/RecQ
@@ -56,6 +60,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code details:
   
   Dataset:Epinions,FilmTrust  Environments:Python 3 
+
+  Metrics: RMSE,Coverage,F-Measure
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
@@ -68,6 +74,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code2 details:
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  Metrics: RMSE
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
@@ -83,6 +91,8 @@ This repository summarizes some existing social recommendation papers and open s
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
+  Metrics: RMSE,MAE
+
   code1: https://github.com/hongleizhang/RSAlgorithms
   
   code2: https://github.com/Coder-Yu/RecQ  
@@ -93,6 +103,8 @@ This repository summarizes some existing social recommendation papers and open s
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
+  Metrics: RMSE,MAE
+
   code: https://github.com/Coder-Yu/RecQ 
   
 * Leveraing Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
@@ -100,6 +112,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code details:
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  Matrics: Recall,NDCG,AUC
 
   code: https://github.com/Coder-Yu/RecQ
   
@@ -112,6 +126,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code2 details:
   
   Dataset:Epinions,FilmTrust  Environments:Python 3 
+ 
+  Metrics: RMSE,MAE
 
   Author's code: https://github.com/guoguibing/librec/
   
@@ -123,6 +139,8 @@ This repository summarizes some existing social recommendation papers and open s
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
+  Metrics: Recall,Precision,AUC,MAP,MRR
+
   code: https://github.com/Coder-Yu/RecQ
   
 * A Social Recommender Based on Factorization and Distance Metric Learning [IEEE Access 2017]
@@ -130,6 +148,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code details:
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  Metrics: RMSE,Recall,MAP
 
   code: https://github.com/Coder-Yu/RecQ
   
@@ -142,6 +162,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code2 details:
   
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  Metrics: RMSE,AUC
   
   code1: https://github.com/hongleizhang/RSAlgorithms
   
@@ -153,6 +175,8 @@ This repository summarizes some existing social recommendation papers and open s
    
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
 
+  Metrics: RMSE
+
   code: https://github.com/Coder-Yu/RecQ  
   
 * Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
@@ -160,6 +184,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code details:
    
   Dataset:Ciao,Epinions,Douban,LastFM  Environments:Python 2.7 Tensorflow
+
+  Metrics: Recall,MAP,NDCG
 
   code: https://github.com/Coder-Yu/RecQ  
   
@@ -169,6 +195,8 @@ This repository summarizes some existing social recommendation papers and open s
    
   Dataset:Ciao,Epinions,Flixster,FilmTrust  Environments:python >= 3.4
 
+  Metrics: RMSE,MAE
+
   code: https://github.com/WSPTTH/SREPS  
   
 * A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
@@ -176,6 +204,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code details:
    
   Dataset:yelp  Environments:python 2.7 tensorflow-gpu-1.12.0
+
+  Metrics: HR,NDCG
 
   Author's code: https://github.com/PeiJieSun/diffnet  
   
@@ -185,6 +215,8 @@ This repository summarizes some existing social recommendation papers and open s
    
   Dataset:Ciao,Epinions,Flixster  Environments:python 2.7 Tensorflow
 
+  Metrics: Recall,NDCG
+
   Author's code: https://github.com/chenchongthu/EATNN  
 
 * Graph Neural Networks for Social Recommendation  [ WWW, 2019]
@@ -192,6 +224,8 @@ This repository summarizes some existing social recommendation papers and open s
   Code details:
    
   Dataset:Ciao,Epinions  Environments:python 3.6 pytorch: 0.2+
+
+  Metrics: RMSE,MAE
 
   Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
   
@@ -205,6 +239,8 @@ This repository summarizes some existing social recommendation papers and open s
    
    Dataset:Douban  Environments:python 2.7 Tensorflow 1.4.1
 
+   Metrics: Recall,NDCG
+
    Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec   
   
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
@@ -213,6 +249,8 @@ This repository summarizes some existing social recommendation papers and open s
   
   Dataset:delicious  Environments:python 2.7 Tensorflow 1.7.0
 
+  Metrics: Recall,NDCG
+
   Author's code: https://github.com/chenchongthu/SAMN
  
 * Social Influence Attentive Neural Network for Friend-Enhanced Recommendation [ECML-PKDD 2020]
@@ -220,7 +258,9 @@ This repository summarizes some existing social recommendation papers and open s
   code details:
   
   Dataset:FWD,yelp  Environments:python 2.7 Pytorch 0.4.1
+
+  Metrics:AUC,F1,Accuracy
   
   code: https://github.com/rootlu/SIAN
   
-  
+ 
