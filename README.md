@@ -21,32 +21,7 @@ This repository summarizes some existing social recommendation papers and open s
   4. Delicious:https://grouplens.org/datasets/hetrec-2011/
 
   5. Yelp: https://www.yelp.com/dataset
-
-
-
-* Graph Neural Networks for Social Recommendation  [ WWW, 2019]
-
-  Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
   
-  Another version: https://github.com/Wang-Shuo/GraphRec_PyTorch
-  
-  Another version(improvement): https://github.com/lcwy220/Social-Recommendation
-  
-* Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
-
-  Author's code: https://github.com/chenchongthu/SAMN
-
-*  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
-
-   Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec 
-
-* An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [SIGIR 2019] 
-
-  Author's code: https://github.com/chenchongthu/EATNN
-
-* A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
-
-  Author's code: https://github.com/PeiJieSun/diffnet
 
 * SoRec Social Recommendation using Probabilistic Matrix Factorization [CIKM 2008]
   
@@ -74,6 +49,14 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
+  code: https://github.com/Coder-Yu/RecQ  
+ 
+* Exploiting local and global social context for recommendation [AAAI 2013]
+
+  code: https://github.com/Coder-Yu/RecQ 
+  
+* Leveraing Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
+
   code: https://github.com/Coder-Yu/RecQ
   
 * TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings [AAAI 2015]
@@ -82,23 +65,7 @@ This repository summarizes some existing social recommendation papers and open s
   
   Another version: https://github.com/hongleizhang/RSAlgorithms
   
-* Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
-
-  code: https://github.com/hongleizhang/RSAlgorithms
-  
-* Social Recommendation with an Essential Preference Space [AAAI 2018]
-
-  code: https://github.com/WSPTTH/SREPS
-
-* Leveraing Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
-
-  code: https://github.com/Coder-Yu/RecQ
-  
-* Social Recommendation Using Euclidean embedding [IJCNN 2017]
-
-  code: https://github.com/Coder-Yu/RecQ
-
-* Exploiting local and global social context for recommendation [AAAI 2013]
+* Social Recommendation with Strong and Weak Ties [CIKM 2016]
 
   code: https://github.com/Coder-Yu/RecQ
   
@@ -106,13 +73,45 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ
   
-* Social Recommendation with Strong and Weak Ties [CIKM 2016]
+* Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
 
-  code: https://github.com/Coder-Yu/RecQ
+  code: https://github.com/hongleizhang/RSAlgorithms
+  
+* Social Recommendation Using Euclidean embedding [IJCNN 2017]
 
+  code: https://github.com/Coder-Yu/RecQ  
+  
 * Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
 
-  code: https://github.com/Coder-Yu/RecQ
+  code: https://github.com/Coder-Yu/RecQ  
+  
+* Social Recommendation with an Essential Preference Space [AAAI 2018]
+
+  code: https://github.com/WSPTTH/SREPS  
+  
+* A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
+
+  Author's code: https://github.com/PeiJieSun/diffnet  
+  
+* An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [SIGIR 2019] 
+
+  Author's code: https://github.com/chenchongthu/EATNN  
+
+* Graph Neural Networks for Social Recommendation  [ WWW, 2019]
+
+  Author's code :  https://github.com/wenqifan03/GraphRec-WWW19
+  
+  Another version: https://github.com/Wang-Shuo/GraphRec_PyTorch
+  
+  Another version(improvement): https://github.com/lcwy220/Social-Recommendation
+  
+*  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
+
+   Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec   
+  
+* Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
+
+  Author's code: https://github.com/chenchongthu/SAMN
  
 * Social Influence Attentive Neural Network for Friend-Enhanced Recommendation [ECML-PKDD 2020]
 
