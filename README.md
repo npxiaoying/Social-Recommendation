@@ -218,8 +218,18 @@ This repository summarizes some existing social recommendation papers and open s
   Metrics: Recall,NDCG
 
   Author's code: https://github.com/chenchongthu/EATNN  
+  
+* Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems  [WWW, 2019]
 
-* Graph Neural Networks for Social Recommendation  [ WWW, 2019]
+  Code details:
+  
+  Dataset:Epinions,WeChat  Environments:python 3.6 TensorFlow 1.7.0
+  
+  Metrics: MAE,RMSE,Precision,AUC
+  
+  Author's code:https://github.com/echo740/DANSER-WWW-19
+
+* Graph Neural Networks for Social Recommendation  [WWW, 2019]
 
   Code details:
    
