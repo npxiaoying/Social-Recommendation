@@ -107,7 +107,7 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ 
   
-* Leveraing Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
+* Leveraging Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
 
   Code details:
   
