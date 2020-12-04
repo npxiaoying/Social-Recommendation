@@ -23,7 +23,9 @@ This repository summarizes some existing social recommendation papers and open s
    Yelp: https://www.yelp.com/dataset
   
 
-* SoRec Social Recommendation using Probabilistic Matrix Factorization [CIKM 2008]
+* SoRec
+  
+  SoRec Social Recommendation using Probabilistic Matrix Factorization [CIKM 2008]
 
   Code1 details:
   
@@ -39,7 +41,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   code: https://github.com/Coder-Yu/RecQ
   
-* Learning to recommend with social trust ensemble [SIGIR 2009]
+* RSTE
+  
+  Learning to recommend with social trust ensemble [SIGIR 2009]
 
   Code1 details:
   
@@ -55,7 +59,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   code2: https://github.com/Coder-Yu/RecQ
   
-* Trustwalker: a random walk model for combining trust-based and item-based recommendation [SIGKDD 2009]
+* TrustWalker
+  
+  Trustwalker: a random walk model for combining trust-based and item-based recommendation [SIGKDD 2009]
 
   Code details:
   
@@ -65,7 +71,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/hongleizhang/RSAlgorithms
   
-* A matrix factorization technique with trust propagation for recommendation in social networks [RecSys 2010]
+* SocialMF
+
+  A matrix factorization technique with trust propagation for recommendation in social networks [RecSys 2010]
 
   Code1 details:
   
@@ -81,7 +89,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   code: https://github.com/Coder-Yu/RecQ
   
-* Recommender systems with social regularization [WSDM 2011]
+* SocialReg
+
+  Recommender systems with social regularization [WSDM 2011]
 
   Code1 details:
   
@@ -97,7 +107,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   code2: https://github.com/Coder-Yu/RecQ  
  
-* Exploiting local and global social context for recommendation [AAAI 2013]
+* LOCABAL
+
+  Exploiting local and global social context for recommendation [AAAI 2013]
 
   Code details:
   
@@ -107,7 +119,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ 
   
-* Leveraging Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
+* SBPR
+
+  Leveraging Social Connections to Improve Personalized Ranking for Collaborative Filtering [CIKM 2014]
 
   Code details:
   
@@ -117,7 +131,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ
   
-* TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings [AAAI 2015]
+* TrustSVD
+  
+  TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings   [AAAI 2015]
 
   Code1 details:
   
@@ -133,7 +149,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   Another version: https://github.com/hongleizhang/RSAlgorithms
   
-* Social Recommendation with Strong and Weak Ties [CIKM 2016]
+* TBPR
+
+  Social Recommendation with Strong and Weak Ties [CIKM 2016]
 
   Code details:
   
@@ -143,7 +161,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ
   
-* A Social Recommender Based on Factorization and Distance Metric Learning [IEEE Access 2017]
+* SocialFD
+
+  A Social Recommender Based on Factorization and Distance Metric Learning [IEEE Access 2017]
 
   Code details:
   
@@ -153,7 +173,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ
   
-* Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
+* CUNE
+  
+  Collaborative User Network Embedding for Social Recommender Systems [SDM 2017]
 
   Code1 details:
   
@@ -169,7 +191,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   code2: https://github.com/Coder-Yu/RecQ  
   
-* Social Recommendation Using Euclidean embedding [IJCNN 2017]
+* SREE
+
+  Social Recommendation Using Euclidean embedding [IJCNN 2017]
 
   Code details:
    
@@ -179,7 +203,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ  
   
-* Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
+* SERec
+
+  Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation [AAAI 2018]
 
   Code details:
    
@@ -189,7 +215,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/Coder-Yu/RecQ  
   
-* Social Recommendation with an Essential Preference Space [AAAI 2018]
+* SREPS
+
+  Social Recommendation with an Essential Preference Space [AAAI 2018]
 
   Code details:
    
@@ -199,7 +227,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/WSPTTH/SREPS  
   
-* A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
+* Diffnet
+  
+  A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
 
   Code details:
    
@@ -209,7 +239,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   Author's code: https://github.com/PeiJieSun/diffnet  
   
-* An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [SIGIR 2019] 
+* EATNN
+
+  An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [SIGIR 2019] 
 
   Code details:
    
@@ -219,7 +251,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   Author's code: https://github.com/chenchongthu/EATNN  
   
-* Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems  [WWW, 2019]
+* DANSER
+
+  Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems   [WWW, 2019]
 
   Code details:
   
@@ -229,7 +263,9 @@ This repository summarizes some existing social recommendation papers and open s
   
   Author's code:https://github.com/echo740/DANSER-WWW-19
 
-* Graph Neural Networks for Social Recommendation  [WWW, 2019]
+* GraphRec
+
+  Graph Neural Networks for Social Recommendation  [WWW, 2019]
 
   Code details:
    
@@ -243,17 +279,21 @@ This repository summarizes some existing social recommendation papers and open s
   
   Another version(improvement): https://github.com/lcwy220/Social-Recommendation
   
-*  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
+* DGRec
 
-   code details:
+  Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM,2019]
+
+  code details:
    
-   Dataset:Douban  Environments:python 2.7 Tensorflow 1.4.1
+  Dataset:Douban  Environments:python 2.7 Tensorflow 1.4.1
 
-   Metrics: Recall,NDCG
+  Metrics: Recall,NDCG
 
-   Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec   
+  Author's code:  https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec   
   
-* Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
+* SAMN
+
+  Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM,2019]
 
   code details:
   
@@ -263,7 +303,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   Author's code: https://github.com/chenchongthu/SAMN
  
-* Social Influence Attentive Neural Network for Friend-Enhanced Recommendation [ECML-PKDD 2020]
+* SIAN
+
+  Social Influence Attentive Neural Network for Friend-Enhanced Recommendation [ECML-PKDD 2020]
   
   code details:
   
