@@ -37,9 +37,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   Metrics: MAE
   
-  code: https://github.com/hongleizhang/RSAlgorithms
+  code1: https://github.com/hongleizhang/RSAlgorithms
   
-  code: https://github.com/Coder-Yu/RecQ
+  code2: https://github.com/Coder-Yu/RecQ
   
 * RSTE
   
@@ -85,9 +85,9 @@ This repository summarizes some existing social recommendation papers and open s
 
   Metrics: RMSE
 
-  code: https://github.com/hongleizhang/RSAlgorithms
+  code1: https://github.com/hongleizhang/RSAlgorithms
   
-  code: https://github.com/Coder-Yu/RecQ
+  code2: https://github.com/Coder-Yu/RecQ
   
 * SocialReg
 
