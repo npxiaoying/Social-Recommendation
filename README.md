@@ -227,7 +227,7 @@ This repository summarizes some existing social recommendation papers and open s
 
   code: https://github.com/WSPTTH/SREPS  
   
-* Diffnet
+* DiffNet
   
   A Neural Influence Diffusion Model for Social Recommendation [SIGIR 2019]
 
@@ -315,4 +315,26 @@ This repository summarizes some existing social recommendation papers and open s
   
   code: https://github.com/rootlu/SIAN
   
- 
+* DiffNet++
+
+  DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation [IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING]
+  
+  code details:
+  
+  Dataset:yelp  Environments:python 2.7 tensorflow-gpu-1.12.0
+
+  Metrics: HR,NDCG
+  
+  code: https://github.com/PeiJieSun/diffnet
+  
+* DICER
+
+  Dual Side Deep Context-aware Modulation for Social Recommendation [WWW 2021]
+  
+  code details:
+  
+  Dataset:Ciao,Epinions  Environments:python 3.8.5 Pytorch 1.7.1 DGL 0.5.3
+
+  Metrics:Recall,NDCG
+  
+  code: https://github.com/Drone-Banks/DICER-WWW-2021
