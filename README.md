@@ -7,7 +7,13 @@ This repository summarizes some existing social recommendation papers and open s
 
 这个仓库总结了一些现有的社会化推荐论文和开源代码，提供了论文的下载并且附上了对应的开源代码地址。如果还有其他我没收集到的关于社会化推荐的开源项目，希望与我联系。(路过的朋友点一下star吧)
 
+知乎主页：https://www.zhihu.com/people/npxiaoying
 
+赞赏：
+
+![6RUMUA{KS`MM85AZ_} O YE](https://user-images.githubusercontent.com/30320836/126885415-fa6888d5-fe78-4255-b11b-9af2bc3965ab.jpg)
+
+![1I%6W`RO%X4WSLPL~K K}6D](https://user-images.githubusercontent.com/30320836/126885416-5678db1f-7397-456f-a62c-e0cad1e0fc27.jpg)
 
 * Common dataset:
 
