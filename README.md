@@ -11,9 +11,9 @@ This repository summarizes some existing social recommendation papers and open s
 
 赞赏：
 
-![6RUMUA{KS`MM85AZ_} O YE](https://user-images.githubusercontent.com/30320836/126885415-fa6888d5-fe78-4255-b11b-9af2bc3965ab.jpg)
+![6RUMUA{KS`MM85AZ_} O YE](https://user-images.githubusercontent.com/30320836/126885438-41480f55-c776-4615-8ffe-a9cd3e2d5a6e.jpg)
+![1I%6W`RO%X4WSLPL~K K}6D](https://user-images.githubusercontent.com/30320836/126885442-85d9b6fd-6865-467d-a806-f784f16abad6.jpg)
 
-![1I%6W`RO%X4WSLPL~K K}6D](https://user-images.githubusercontent.com/30320836/126885416-5678db1f-7397-456f-a62c-e0cad1e0fc27.jpg)
 
 * Common dataset:
 
