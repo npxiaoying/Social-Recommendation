@@ -337,3 +337,15 @@ This repository summarizes some existing social recommendation papers and open s
   Metrics:Recall,NDCG
   
   code: https://github.com/Drone-Banks/DICER-WWW-2021
+
+* ConsisRec
+
+  ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation [SIGIR 2021]
+  
+  code details:
+  
+  Dataset:Ciao,Epinions  Environments:python 3.8,torch 1.7.1,numpy 1.20.0,sklearn
+
+  Metrics:RMSE,MAE
+  
+  code: https://github.com/YangLiangwei/ConsisRec
