@@ -354,3 +354,27 @@ This repository summarizes some existing social recommendation papers and open s
   Metrics:RMSE,MAE
   
   code: https://github.com/YangLiangwei/ConsisRec
+  
+* MHCN
+
+  Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [WWW 2021]
+  
+  code details:
+  
+  Dataset:LastFM,Douban,Yelp  Environments:Python 3.7.4,Tensorflow 1.14+
+
+  Metrics:Precision,Recall,NDCG
+  
+  code: https://github.com/Coder-Yu/QRec
+  
+* SEPT
+
+  Socially-Aware Self-supervised Tri-Training for Recommendation [KDD 2021]
+  
+  code details:
+  
+  Dataset:LastFM,Douban,Yelp  Environments:Python 3.7.4,Tensorflow 1.14+
+
+  Metrics:Precision,Recall,NDCG
+  
+  code: https://github.com/Coder-Yu/QRec  
