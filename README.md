@@ -9,11 +9,6 @@ This repository summarizes some existing social recommendation papers and open s
 
 知乎主页：https://www.zhihu.com/people/npxiaoying
 
-赞赏：
-
-![6RUMUA{KS`MM85AZ_} O YE](https://user-images.githubusercontent.com/30320836/126885462-87c4ebaa-448a-41a8-9bb6-4ee26e080746.jpg)
-![1I%6W`RO%X4WSLPL~K K}6D](https://user-images.githubusercontent.com/30320836/126885464-08f1f02b-a915-4d8b-a9ab-931cddc6cd46.jpg)
-
 * Common dataset:
 
    FilmTrust: https://guoguibing.github.io/librec/datasets.html
